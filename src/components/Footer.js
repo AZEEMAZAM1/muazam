@@ -14,16 +14,16 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Usama Azam</h3>
+          <h3>Designed and Developed by MUAZAM AZAM</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} UA</h3>
+          <h3>Copyright © {year} MA</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/ranau4626/"
+                href="https://www.linkedin.com/in/muazam-642708196/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/ranau4626/"
+                href="https://www.linkedin.com/in/muazam-642708196/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/ranau4626/"
+                href="https://www.linkedin.com/in/muazam-642708196/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -53,7 +53,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/ranau4626/"
+                href="https://www.linkedin.com/in/muazam-642708196/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
