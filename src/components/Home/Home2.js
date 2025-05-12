@@ -19,18 +19,18 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with accountancy and I have at least learnt
+              I fell in love with medical lab Technologies and I have at least learnt
               something, I think… 🤷‍♂️
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> tax consoultancy and autditing </b>
+                <b className="purple"> lab tests and medical billing </b>
               </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
+                <b className="purple">REOMOT BILLING ASSISTANT </b> and
                 also in areas related to{" "}
                 <b className="purple">
                   Blockchain.
@@ -39,16 +39,16 @@ function Home2() {
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              in field of  <b className="purple"></b> 
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  MEDICAL LAB TECHNOLOGIES
                 </b>
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> RESEARCH AND ANALYSING</b>
               </i>
             </p>
           </Col>
