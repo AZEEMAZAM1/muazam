@@ -15,7 +15,7 @@ function Particle() {
             },
           },
           color: {
-            value: ["#00d4ff", "#ff00ff", "#00ff00"], // Vibrant bubble colors
+            value: ["#000000", "#ffffff"], // Black and white colors
           },
           shape: {
             type: "circle", // Bubble shapes
