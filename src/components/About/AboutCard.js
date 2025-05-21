@@ -27,7 +27,7 @@ function AboutCard() {
               <ImPointRight /> Writing Tech Blogs
             </li>
             <li className="about-activity" style={{ fontFamily: "'Bubblegum Sans', cursive" }}>
-              <ImPointRight /> Travelling
+              <ImPointRight /> Travelling and book reading
             </li>
           </ul>
 
