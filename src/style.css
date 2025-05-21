@@ -742,3 +742,34 @@ button:focus {
 .fork-btn-inner::after {
   display: none !important;
 }
+
+/* Apply the bubbly font globally */
+body {
+  font-family: 'Bubblegum Sans', cursive !important;
+}
+
+/* Specific sections */
+.home-section,
+.about-section,
+.projects-section,
+.resume-section,
+.blog-section {
+  font-family: 'Bubblegum Sans', cursive !important;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Bubblegum Sans', cursive !important;
+}
+
+/* Buttons */
+.btn-primary {
+  font-family: 'Bubblegum Sans', cursive !important;
+  font-size: 1.2em !important;
+}
+
+/* Links */
+a {
+  font-family: 'Bubblegum Sans', cursive !important;
+  text-decoration: none !important;
+}

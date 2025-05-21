@@ -7,7 +7,7 @@ function AboutCard() {
     <Card className="quote-card-view">
       <Card.Body>
         <blockquote className="blockquote mb-0">
-          <p style={{ textAlign: "justify" }}>
+          <p style={{ textAlign: "justify", fontFamily: "'Bubblegum Sans', cursive" }}>
             Hi Everyone, I am <span className="purple">MUAZAM AZAM </span>
             from <span className="purple"> DUBAI, UAE.</span>
             <br />
@@ -20,21 +20,23 @@ function AboutCard() {
             Apart from billing and lab TECHNICIAN, some other activities that I love to do!
           </p>
           <ul>
-            <li className="about-activity">
+            <li className="about-activity" style={{ fontFamily: "'Bubblegum Sans', cursive" }}>
               <ImPointRight /> Playing chess game 
             </li>
-            <li className="about-activity">
+            <li className="about-activity" style={{ fontFamily: "'Bubblegum Sans', cursive" }}>
               <ImPointRight /> Writing Tech Blogs
             </li>
-            <li className="about-activity">
+            <li className="about-activity" style={{ fontFamily: "'Bubblegum Sans', cursive" }}>
               <ImPointRight /> Travelling
             </li>
           </ul>
 
-          <p style={{ color: "rgb(155 126 172)" }}>
+          <p style={{ color: "rgb(155 126 172)", fontFamily: "'Bubblegum Sans', cursive" }}>
             "Strive to build things that make a difference!"{" "}
           </p>
-          <footer className="blockquote-footer">Muazam</footer>
+          <footer className="blockquote-footer" style={{ fontFamily: "'Bubblegum Sans', cursive" }}>
+            Muazam
+          </footer>
         </blockquote>
       </Card.Body>
     </Card>
