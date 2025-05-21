@@ -33,7 +33,7 @@ function Home2() {
                 <b className="purple">REOMOT BILLING ASSISTANT </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Blockchain.
+                  Bio Medical Engineering
                 </b>
               </i>
               <br />
