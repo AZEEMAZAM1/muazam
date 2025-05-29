@@ -11,13 +11,13 @@ function AboutCard() {
             Hi Everyone, I'm <span className="purple">MUAZAM AZAM </span>
             from <span className="purple"> DUBAI, UAE.</span>
             <br />
-            I am currently employed as a senior medical billing assistant.
+            I am currently employed as senior medical billing assistant.
             <br />
             I have completed Bsc  (Cambridge) in Medical Lab Technologies. 
             
             <br />
             <br />
-            Apart from billing and lab TECHNICIAN, some other activities that I love to do!
+            Apart from billing and lab TECHNICIAN, some other activities that I love to do here's follows!
           </p>
           <ul>
             <li className="about-activity" style={{ fontFamily: "'Bubblegum Sans', cursive" }}>
