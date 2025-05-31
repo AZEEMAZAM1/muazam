@@ -43,7 +43,7 @@ function Home2() {
               <i>
                 <b className="purple">
                   {" "}
-                  MEDICAL LAB TECHNOLOGIES
+                  MEDICAL LAB TECHNOLOGIES & billing
                 </b>
               </i>
               &nbsp; like
