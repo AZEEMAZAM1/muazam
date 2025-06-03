@@ -26,7 +26,7 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="technical analysis "
-              description="Generate a full report regarding blood samples and to provide brief acknoledgement disease "
+              description="Generate a full report regarding blood samples and to provide brief acknoledgement disease and send it to patient  "
               // ghLink="https://github.com/soumyajit4419/Chatify"
               // // demoLink="https://chatify-49.web.app/"
             />
