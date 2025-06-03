@@ -47,8 +47,8 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
+              title="Centrifugal force calculator"
+              description="used ot calculate the blood flow in human body using centrifugal force and to calculate the exact heart beat and body autonomy."
               // ghLink="https://github.com/soumyajit4419/Editor.io"
               // demoLink="https://editor.soumya-jit.tech/"              
             />
