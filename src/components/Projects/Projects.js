@@ -58,8 +58,8 @@ function Projects() {
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
+              title="human EQ calculator"
+              description="Used to detect emotional quotient to get data regarding decision making process of huma being ."
               // ghLink="https://github.com/soumyajit4419/Plant_AI"
               // demoLink="https://plant49-ai.herokuapp.com/"
             />
