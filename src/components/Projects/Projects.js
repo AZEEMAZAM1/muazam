@@ -36,15 +36,15 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. and i use this to mange certain foums and to elaborate my knowldege using chatbot agents."
+              title="Blood Donor"
+              description="A web application that connects blood donors with those in need, facilitating the donation process and providing essential information about blood types and donation locations."
               // ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
               // demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
 
           <Col md={4} className="project-card">
-            <ProjectCard
+            <ProjectCar
               imgPath={editor}
               isBlog={false}
               title="Centrifugal force calculator"
