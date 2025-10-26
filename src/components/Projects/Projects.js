@@ -44,7 +44,7 @@ function Projects() {
           </Col>
 
           <Col md={4} className="project-card">
-            <ProjectCar
+            <ProjectCard
               imgPath={editor}
               isBlog={false}
               title="Centrifugal force calculator"

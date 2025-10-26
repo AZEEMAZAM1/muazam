@@ -13,7 +13,7 @@ function AboutCard() {
             <br />
             I am currently employed as senior medical billing assistant.
             <br />
-            I have completed Bsc  (Cambridge) in Medical Lab Technologies. 
+            I have completed Bsc  (Cambridge) in Medical Lab Technologies and testing 
             
             <br />
             <br />
